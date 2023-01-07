@@ -1,6 +1,3 @@
-# https://viso.ai/computer-vision/deepface/
-# https://github.com/serengil/deepface/blob/master/deepface/commons/functions.py
-
 # import libraries
 from deepface import DeepFace
 from deepface.commons import functions
